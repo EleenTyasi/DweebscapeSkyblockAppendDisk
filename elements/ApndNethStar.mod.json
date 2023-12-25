@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.GLASS"
+      },
+      {
+        "value": "Items.ENDER_PEARL"
+      },
+      {
+        "value": "Blocks.DIAMOND_BLOCK"
+      },
+      {
+        "value": "Blocks.SOUL_SAND"
+      },
+      {
+        "value": "Blocks.NETHERITE_BLOCK"
+      },
+      {
+        "value": "Blocks.SOUL_SAND"
+      },
+      {
+        "value": "Blocks.DIAMOND_BLOCK"
+      },
+      {
+        "value": "Items.ENDER_PEARL"
+      },
+      {
+        "value": "Blocks.GLASS"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.NETHER_STAR"
+    },
+    "name": "apnd_neth_star",
+    "namespace": "mod"
+  }
+}

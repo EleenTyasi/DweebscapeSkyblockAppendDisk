@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "netherstone",
+  "category": "blocks",
+  "experience": 16,
+  "cookingtime": 150,
+  "ingredient": {
+    "item": "minecraft:gravel"
+  },
+  "result": "minecraft:netherrack"
+}

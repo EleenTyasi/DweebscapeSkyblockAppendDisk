@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_ore"
+    },
+    "title": {
+      "translate": "advancements.apnd_diamond_ore_adv.title"
+    },
+    "description": {
+      "translate": "advancements.apnd_diamond_ore_adv.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "apnd_diamond_ore_adv": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "dwbscpsad:apnd_heart_sea_adv"
+}

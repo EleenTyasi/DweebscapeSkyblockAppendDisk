@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "minecraft:ender_pearl"
+    },
+    "title": {
+      "translate": "advancements.apnd_ds_kadv.title"
+    },
+    "description": {
+      "translate": "advancements.apnd_ds_kadv.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "apnd_ds_kadv": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "netherstone",
+    "cookingBookCategory": "BLOCKS",
+    "xpReward": 16.0,
+    "cookingTime": 150,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "Blocks.GRAVEL"
+    },
+    "smeltingReturnStack": {
+      "value": "Blocks.NETHERRACK"
+    },
+    "name": "apnd_netherrack",
+    "namespace": "mod"
+  }
+}

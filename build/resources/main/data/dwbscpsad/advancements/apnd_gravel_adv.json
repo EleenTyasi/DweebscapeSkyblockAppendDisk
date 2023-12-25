@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:gravel"
+    },
+    "title": {
+      "translate": "advancements.apnd_gravel_adv.title"
+    },
+    "description": {
+      "translate": "advancements.apnd_gravel_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "apnd_gravel_adv": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "dwbscpsad:apnd_ds_kadv"
+}

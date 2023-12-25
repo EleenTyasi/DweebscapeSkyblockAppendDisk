@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:netherrack"
+    },
+    "title": {
+      "translate": "advancements.apnd_n_rcraft.title"
+    },
+    "description": {
+      "translate": "advancements.apnd_n_rcraft.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "apnd_n_rcraft": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "dwbscpsad:apnd_gravel_adv"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:soul_sand"
+    },
+    "title": {
+      "translate": "advancements.apnd_soulsand_adv.title"
+    },
+    "description": {
+      "translate": "advancements.apnd_soulsand_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "apnd_soulsand_adv": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "dwbscpsad:apnd_n_rcraft"
+}

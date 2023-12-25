@@ -1,0 +1,403 @@
+{
+  "mod_elements": [
+    {
+      "name": "Apndglowstone",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apndglowstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/dwbscpsad/recipes/apndglowstone.json"
+        ]
+      }
+    },
+    {
+      "name": "Apndgstcrft",
+      "type": "achievement",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apndgstcrft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/dwbscpsad/advancements/apndgstcrft.json"
+        ]
+      }
+    },
+    {
+      "name": "Apndglstcrftproc",
+      "type": "procedure",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apndglstcrftproc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/dwbscpsad/procedures/ApndglstcrftprocProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ApndNetherrack",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_netherrack",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/dwbscpsad/recipes/apnd_netherrack.json"
+        ]
+      }
+    },
+    {
+      "name": "ApndNRcraft",
+      "type": "achievement",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_n_rcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/dwbscpsad/advancements/apnd_n_rcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "ApndNRcraftproc",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_n_rcraftproc",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Apndnetheritescrap",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apndnetheritescrap",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/dwbscpsad/recipes/apndnetheritescrap.json"
+        ]
+      }
+    },
+    {
+      "name": "ApndNscrapCrft",
+      "type": "achievement",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_nscrap_crft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/dwbscpsad/advancements/apnd_nscrap_crft.json"
+        ]
+      }
+    },
+    {
+      "name": "ApndNscrapProc",
+      "type": "procedure",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_nscrap_proc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/dwbscpsad/procedures/ApndNscrapProcProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ApndDSKadv",
+      "type": "achievement",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_ds_kadv",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/dwbscpsad/advancements/apnd_ds_kadv.json"
+        ]
+      }
+    },
+    {
+      "name": "ApndHeartSea",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_heart_sea",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/dwbscpsad/recipes/apnd_heart_sea.json"
+        ]
+      }
+    },
+    {
+      "name": "ApndHeartSeaAdv",
+      "type": "achievement",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_heart_sea_adv",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/dwbscpsad/advancements/apnd_heart_sea_adv.json"
+        ]
+      }
+    },
+    {
+      "name": "ApndHeartSeaProc",
+      "type": "procedure",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_heart_sea_proc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/dwbscpsad/procedures/ApndHeartSeaProcProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ApndDiamondOre",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_diamond_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/dwbscpsad/recipes/apnd_diamond_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "ApndDiamondOreAdv",
+      "type": "achievement",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_diamond_ore_adv",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/dwbscpsad/advancements/apnd_diamond_ore_adv.json"
+        ]
+      }
+    },
+    {
+      "name": "ApndDiamondOreProc",
+      "type": "procedure",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_diamond_ore_proc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/dwbscpsad/procedures/ApndDiamondOreProcProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ApndNethStar",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_neth_star",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/dwbscpsad/recipes/apnd_neth_star.json"
+        ]
+      }
+    },
+    {
+      "name": "ApndNethStarAdv",
+      "type": "achievement",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_neth_star_adv",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/dwbscpsad/advancements/apnd_neth_star_adv.json"
+        ]
+      }
+    },
+    {
+      "name": "ApndNethStarProc",
+      "type": "procedure",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_neth_star_proc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/dwbscpsad/procedures/ApndNethStarProcProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ApndGravel",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_gravel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/dwbscpsad/recipes/apnd_gravel.json"
+        ]
+      }
+    },
+    {
+      "name": "ApndGravelAdv",
+      "type": "achievement",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_gravel_adv",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/dwbscpsad/advancements/apnd_gravel_adv.json"
+        ]
+      }
+    },
+    {
+      "name": "ApndGravelProc",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_gravel_proc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/dwbscpsad/procedures/ApndGravelProcProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ApndSoulsand",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_soulsand",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/dwbscpsad/recipes/apnd_soulsand.json"
+        ]
+      }
+    },
+    {
+      "name": "ApndSoulsandAdv",
+      "type": "achievement",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apnd_soulsand_adv",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/dwbscpsad/advancements/apnd_soulsand_adv.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.apnd_diamond_ore_adv.descr": "Create diamond ore by using a stone cutter on a Heart of the Sea.",
+      "advancements.apndgstcrft.title": "Append: Glowstone",
+      "advancements.apnd_gravel_adv.descr": "Utilizing a stonecutter, smash cobblestone into gravel.",
+      "advancements.apnd_neth_star_adv.descr": "Craft a Nether Star, an expensive item to make.",
+      "advancements.apnd_soulsand_adv.title": "Append: Soul Sand",
+      "advancements.apnd_n_rcraft.descr": "Craft netherrack by smelting gravel.",
+      "advancements.apnd_soulsand_adv.descr": "Smash nether rack into soul sand.",
+      "advancements.apnd_neth_star_adv.title": "Append:: Nether Star",
+      "advancements.apndgstcrft.descr": "Successfully craft glowstone dust from coal and redstone.",
+      "advancements.apnd_n_rcraft.title": "Append: Netherrack",
+      "advancements.apnd_gravel_adv.title": "Append: Gravel",
+      "advancements.apnd_nscrap_crft.descr": "Craft a Netherite Scrap!",
+      "advancements.apnd_heart_sea_adv.title": "Append: Heart of the Sea",
+      "advancements.apnd_diamond_ore_adv.title": "Append: Diamond Ore",
+      "advancements.apnd_ds_kadv.descr": "\"The SAD\u0027s achievements.\"",
+      "advancements.apnd_ds_kadv.title": "Dweebscape Skyblock Append Disk",
+      "advancements.apnd_nscrap_crft.title": "Append: Netherite Scrap",
+      "advancements.apnd_heart_sea_adv.descr": "Craft a Heart of the Sea."
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "dwbscpsad",
+    "modName": "Dweebscape Skyblock Append Disk (SAD)",
+    "version": "1.0.0",
+    "description": "Append Disk Installed. Hello there! This is an Append Disk for Skyblock. Please ensure you have this mod  along side of a world generator that  generates a skyblock or void island! Thanks!",
+    "author": "EleenTyasi",
+    "websiteURL": "https://twitch.tv/MyrajusEleen",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Utilized MCreator for most parts of this project.",
+    "modElementsPackage": "net.mcreator.dwbscpsad",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300451615
+}

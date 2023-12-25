@@ -1,0 +1,22 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Items.HEART_OF_THE_SEA"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "Blocks.DIAMOND_ORE"
+    },
+    "name": "apnd_diamond_ore",
+    "namespace": "mod"
+  }
+}
